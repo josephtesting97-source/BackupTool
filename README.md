@@ -1,4 +1,4 @@
-Backup Tool
+# Backup Tool
 
 A lightweight Python backup utility that monitors and uploads files from the top level of your Linux home directory (or any configured base directory). It tracks file changes using SHA-256 hashes and only uploads new or modified files.
 
