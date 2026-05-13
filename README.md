@@ -17,6 +17,6 @@ A lightweight Python backup utility that monitors and uploads files from the top
 - git clone https://github.com/josephtesting97-source/BackupTool.git 
 - cd BackupTool
 - pip install -r requirements.txt
-- mv Backup.py /../../Backup.py
-- python3  /../../Backup.py
+- mv Backup.py ../../Backup.py
+- python3  ../../Backup.py
 ---
